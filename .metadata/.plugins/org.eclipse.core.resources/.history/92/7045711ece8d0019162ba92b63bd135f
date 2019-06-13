@@ -1,0 +1,5 @@
+package com.bridgelabz.websocket.config;
+
+public class SwaggerConfig {
+
+}
